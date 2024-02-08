@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  title: 'Or How I Learned To Stop Caring',
+  title: '...Or How I Learned To Stop Caring',
   nav: [
     {
       text: 'Home',
